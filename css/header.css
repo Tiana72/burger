@@ -10,3 +10,10 @@
     color: #FFFFFF;
     margin: 0 auto 24px;
 }
+.header__title-container {
+    padding-bottom: 246px;
+    background-image: url(../img/burger.svg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+
+} 
